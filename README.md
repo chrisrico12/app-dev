@@ -2,6 +2,6 @@
 My first repository
 
 ## Chris Rico's Favorite Movies
-*Titanic*
-*John Wick*
-*Fast and Furious*
+* 1.Titanic*
+* 2.John Wick*
+* 3.Fast and Furious*
