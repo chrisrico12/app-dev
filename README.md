@@ -7,5 +7,8 @@ My first repository
    Incorporating both historical and fictional aspects, it is based on accounts of the sinking of RMS Titanic in 1912.
 
     
-* John Wick 
+* John Wick
+  *John Wick is a retired assassin who returns to his old ways after a group of Russian gangsters steal his car and kill his puppy which was given to him by his late wife Helen.
+
+  
 * Fast and Furious 
