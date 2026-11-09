@@ -1,5 +1,7 @@
 # app-dev
 My first repository
 
-## Chris Rico
-*italicized text*
+## Chris Rico's Favorite Movies
+*Titanic*
+*John Wick*
+*Fast and Furious*
