@@ -1,5 +1,5 @@
 # app-dev
 My first repository
 
-##Chris Rico
+## Chris Rico
 *italicized text*
