@@ -12,5 +12,5 @@ My first repository
 
   
 * Fast and Furious 
-* Fast & Furious (formerly known as The Fast and the Furious) is an American action media franchise centered on a series of films revolving around street racing, heists, and spies.
+ Fast & Furious (formerly known as The Fast and the Furious) is an American action media franchise centered on a series of films revolving around street racing, heists, and spies.
 The franchise also includes short films, a television series, toys, video games, live shows, theme park and museum attractions. The films are distributed by Universal Pictures.
